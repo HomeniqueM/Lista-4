@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1621977835 "/mnt/DEE4F617E4F5F19F/Formação/Faculdade/Ciência_da_computação/4º - Periodo/4_ESTATÍSTICA E PROBABILIDADE/Atividades/Lista-4/main.tex" "/mnt/DEE4F617E4F5F19F/Formação/Faculdade/Ciência_da_computação/4º - Periodo/4_ESTATÍSTICA E PROBABILIDADE/Atividades/Lista-4/main.pdf" "main" 1621977835
-  "/mnt/DEE4F617E4F5F19F/Formação/Faculdade/Ciência_da_computação/4º - Periodo/4_ESTATÍSTICA E PROBABILIDADE/Atividades/Lista-4/main.aux" 1621977835 230 29a2c0fe8b7a7732d71ab42d7d32cf7b ""
-  "/mnt/DEE4F617E4F5F19F/Formação/Faculdade/Ciência_da_computação/4º - Periodo/4_ESTATÍSTICA E PROBABILIDADE/Atividades/Lista-4/main.tex" 1621977835 647 fbbfacacedf93899f7bcf49d90104c5d ""
+["pdflatex"] 1621978973 "/mnt/DEE4F617E4F5F19F/Formação/Faculdade/Ciência_da_computação/4º - Periodo/4_ESTATÍSTICA E PROBABILIDADE/Atividades/Lista-4/main.tex" "/mnt/DEE4F617E4F5F19F/Formação/Faculdade/Ciência_da_computação/4º - Periodo/4_ESTATÍSTICA E PROBABILIDADE/Atividades/Lista-4/main.pdf" "main" 1621978974
+  "/mnt/DEE4F617E4F5F19F/Formação/Faculdade/Ciência_da_computação/4º - Periodo/4_ESTATÍSTICA E PROBABILIDADE/Atividades/Lista-4/main.aux" 1621978973 230 29a2c0fe8b7a7732d71ab42d7d32cf7b ""
+  "/mnt/DEE4F617E4F5F19F/Formação/Faculdade/Ciência_da_computação/4º - Periodo/4_ESTATÍSTICA E PROBABILIDADE/Atividades/Lista-4/main.tex" 1621978973 1424 080a23a781ef2566fd89c74068ff24f5 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1616952564 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1616952564 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1616952564 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -24,6 +24,8 @@
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1616952564 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1616952564 32362 179c33bbf43f19adbb3825bb4e36e57a ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1616952564 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
+  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1616952564 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1616952564 32716 08e384dc442464e7285e891af9f45947 ""
   "/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty" 1616952564 2211 ca7ce284ab93c8eecdc6029dc5ccbd73 ""
   "/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty" 1616952564 4161 7f6eb9092061a11f87d08ed13515b48d ""
   "/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty" 1616952564 87353 2c21ff5f2e32e1bf714e600924d810db ""
@@ -36,11 +38,11 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1616952564 33301 a3134070eacafb10b1f371612ce2650d ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1621455584 4885835 225b430335ea75120e4d14f95280dfb9 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1621455557 2635855 11e6ec2113e5cfd4287430fcf9a34eda ""
-  "main.aux" 1621977835 230 29a2c0fe8b7a7732d71ab42d7d32cf7b "pdflatex"
-  "main.tex" 1621977835 647 fbbfacacedf93899f7bcf49d90104c5d ""
+  "main.aux" 1621978973 230 29a2c0fe8b7a7732d71ab42d7d32cf7b "pdflatex"
+  "main.tex" 1621978973 1424 080a23a781ef2566fd89c74068ff24f5 ""
   (generated)
-  "/mnt/DEE4F617E4F5F19F/Formação/Faculdade/Ciência_da_computação/4º - Periodo/4_ESTATÍSTICA E PROBABILIDADE/Atividades/Lista-4/main.log"
-  "main.log"
-  "main.pdf"
-  "/mnt/DEE4F617E4F5F19F/Formação/Faculdade/Ciência_da_computação/4º - Periodo/4_ESTATÍSTICA E PROBABILIDADE/Atividades/Lista-4/main.pdf"
   "main.aux"
+  "/mnt/DEE4F617E4F5F19F/Formação/Faculdade/Ciência_da_computação/4º - Periodo/4_ESTATÍSTICA E PROBABILIDADE/Atividades/Lista-4/main.log"
+  "main.pdf"
+  "main.log"
+  "/mnt/DEE4F617E4F5F19F/Formação/Faculdade/Ciência_da_computação/4º - Periodo/4_ESTATÍSTICA E PROBABILIDADE/Atividades/Lista-4/main.pdf"

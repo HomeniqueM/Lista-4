@@ -266,99 +266,114 @@
 \section{Questão 03}    
 
     \subsection*{Item A}
-        
-        \begin{flushleft}
 
-        $S_{xx}$= $n\Sigma x^2$ - $(\Sigma x)^2$ 
+            $S_x$ = 54
+            
+            $S_y$ = 908
+            
+            $S_x^2$ = 332
+            
+            $S_y^2$ = 70836
+            
+            $S_{xy}$ = 3724
 
-        $S_{xx} =$
+            \begin{flushleft}
 
-        $S_{xx} =$
+            $S_{xx}$= $n\Sigma x^2$ - $(\Sigma x)^2$ 
 
-        $S_{xx}=$
+            $S_{xx} =12*332 -(54)^2$
 
-        \end{flushleft}
+            $S_{xx} = 3984 -2916 $
 
-        \begin{flushleft}
-            $S_{yy}$= $n\Sigma y^2$ - $(\Sigma y)^2$
+            $S_{xx}= 168$
 
-            $S_{yy} = $
+            \end{flushleft}
 
-            $S_{yy} = $
+            \begin{flushleft}
+                $S_{yy}$= $n\Sigma y^2$ - $(\Sigma y)^2$
 
-            $S_{yy} = $
+                $S_{yy} = 12* 70836 - (908)^2$
 
-        \end{flushleft}
+                $S_{yy} = 850032 - 824464 $
 
-\begin{flushleft}
+                $S_{yy} = 25568$
 
-$S_{xy} = n\Sigma xy-(\Sigma x)(\Sigma y)$
+            \end{flushleft}
 
-$S_{xy} = $
+            \begin{flushleft}
 
-$S_{xy} =$ 
+            $S_{xy} = n\Sigma xy-(\Sigma x)(\Sigma y)$
 
-$S_{xy} =$ 
+            $S_{xy} = 12*3724-(54)(908)$
 
-\end{flushleft}
+            $S_{xy} = 44688-49032$ 
 
-\begin{flushleft}
-    $Corr(x,y) = \frac{Sxy}{\sqrt{Sxx * Syy}} = \frac{x}{\sqrt{x * x}} = \frac{x}{x} = x $
+            $S_{xy} = -4344$ 
 
-\end{flushleft}
+            \end{flushleft}
 
-Resultado: Fonte correlação positiva
+            \begin{flushleft}
+                $Corr(x,y) = \frac{Sxy}{\sqrt{Sxx * Syy}} = \frac{-4344}{\sqrt{1068 * 25568}} =
+                            \frac{-4344}{\sqrt{27306624}} = \frac{-4344}{5225,57} = -0,8313 $
 
-\subsection{Item B}
+            \end{flushleft}
 
-\begin{flushleft}
+            Resultado: Forte correlação negativa
 
-    $\hat{\beta} = \frac{Sxy}{Sxx} = \frac{66640}{124} = 537,42$
+    \subsection{Item B}
 
-    $\hat{\beta} = \bar{y} - \hat{\beta} * \bar{x} = 1405 -537,42 * 3,75 = -610,325$
-\end{flushleft}
+            \begin{flushleft}
 
-\subsubsection{Resultados e Analises}
+                $\hat{\beta} = \frac{Sxy}{Sxx} = \frac{-4344}{1068} = -4,07$
 
-$\hat{\beta}0 $:  \\    
-$\hat{\beta}1 $: 
+                $\hat{\beta} = \bar{y} - \hat{\beta} * \bar{x} = 75.66+4.07* 4.5 = 93.97$
+            \end{flushleft}
 
-\subsection{Item C}
+            \subsubsection{Resultados e Analises}
 
-\begin{flushleft}
-    $R^2 = (0,9907)^2$ =$0,9815$ ou $98,15\$$
-\end{flushleft}
+            $\hat{\beta}0 $:É esperado que um aluno
+            que assistem zero horas de televisão, uma nota média de 93,97 pontos  \\    
+            $\hat{\beta}1 $:Para cada hora adicional para assistir televisão,
+                    temos uma diminuição na média de -4,07 pontos na nota. 
 
-\subsubsection{Resultado}
+    \subsection{Item C}
 
+            \begin{flushleft}
+                $R^2 = (-0,8313)^2$ =$0,691$ ou $69,10\$$
+            \end{flushleft}
 
-\subsection{Item D}
-%Formula 
-\begin{flushleft}
-$Se = \sqrt{ \frac{\Sigma y^2 - \hat{\beta } \Sigma y - \hat{\beta}1 \Sigma xy }{n-2}}$
-\end{flushleft}   
+            \subsubsection{Resultado}
+            \paragraph{}A pontuação de $69,10\% $ é explicado pelas horas de televisão assistindas, 
+                        já os outros $30,90\%$ não são explicadas
+                        pois o estudado não abrange ou houve erros 
 
-\begin{flushleft}
-$Se = \sqrt{ \frac{x - (x * x)+ (x * x) }{x}}$
+    \subsection{Item D}
+            %Formula 
+            \begin{flushleft}
+            $Se = \sqrt{ \frac{\Sigma y^2 - \hat{\beta } \Sigma y - \hat{\beta}1 \Sigma xy }{n-2}}$
+            \end{flushleft}   
 
-$Se = \sqrt{ \frac{x }{x}}$
+            \begin{flushleft}
+            $Se = \sqrt{ \frac{70836 - (93,97 * 908)+ (4,07 * 3724) }{10}}$
 
-$Se = x$
-\end{flushleft}   
+            $Se = \sqrt{ \frac{667,92}{10}}$
 
-\begin{flushleft}
-$\hat{y} = \hat{B}0 + \hat{B}1 *n = -610,325 + 537,42 * 7=3151,615$
-\end{flushleft}   
+            $Se = 8,17$
+            \end{flushleft}   
 
-\begin{flushleft}
-$Ic(95\%) = \hat{y} + t\frac{a}{2};n-2 *Se* \sqrt{1 + \frac{1}{n} +\frac{N(x_0 -x)^2}{}}$
+            \begin{flushleft}
+            $\hat{y} = \hat{B}0 + \hat{B}1 *n = -610,325 + 537,42 * 7=3151,615$
+            \end{flushleft}   
 
-$Ic(95\%) = 3151,615 \pm 2,4469 *  (118,81* \sqrt{1 + \frac{1}{8} + \frac{8(7-3,75)^2}{124}})$
+            \begin{flushleft}
+            $Ic(95\%) = \hat{y} + t\frac{a}{2};n-2 *Se* \sqrt{1 + \frac{1}{n} +\frac{N(x_0 -x)^2}{}}$
 
-$Ic(95\%) =  3151,615 \pm 390,73$
+            $Ic(95\%) = 57,34 \pm 2,2281 *  (8,17* \sqrt{1 + \frac{1}{12} + \frac{12(9-4,5)^2}{1068}})$
 
-$Ic(95\%) = [2760,885 ; 3542,345]$
-\end{flushleft}
+            $Ic(95\%) =  57,34 \pm 20,84$
+
+            $Ic(95\%) = [36,5$ \ ; \ $78,18]$
+            \end{flushleft}
 
 
 \subsection{Item E}
